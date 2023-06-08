@@ -1,6 +1,8 @@
 <h1>Hi, I am a Senior Ruby on Rails Developer 👋</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=eedevstar&theme=onedark)](https://github.com/eedevstar/github-profile-trophy)
+
 <h3>🛠 Tech Stack</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,mysql,postgres,mongodb,docker,js,ts,jquery,html,css,tailwind,git,figma&theme=light)](https://skills.thijs.gg)
 
 - 💻 &nbsp; Ruby | Ruby on Rails | Rspec  
 - 🌐 &nbsp; Javascript | React.JS | jQuery | Material UI | Bootstrap | Sass 
