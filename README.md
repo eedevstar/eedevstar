@@ -1,5 +1,5 @@
 <h1>Senior Ruby on Rails Developer & React.JS Developer 👋</h1>
-![](https://hit.yhype.me/github/profile?username=eedevstar)
+<img src="https://komarev.com/ghpvc/?username=eedevstar&style=for-the-badge">
 <h3>🛠 Tech Stack</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,redux,graphql,mysql,postgres,sqlite,mongodb,aws,heroku,docker,kubernetes,jenkins,js,ts,regex,jquery,html,css,sass,tailwind,bootstrap,git,github,gitlab,postman,figma,ps,linux,vscode&theme=light)](https://skills.thijs.gg)
