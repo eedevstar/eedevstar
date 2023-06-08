@@ -2,7 +2,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,mysql,postgres,mongodb,docker,js,ts,jquery,html,css,tailwind,git,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,redux,graphql,mysql,postgres,sqlite,mongodb,aws,heroku,docker,kubernetes,jenkins,js,ts,regex,jquery,html,css,sass,tailwind,bootstrap,git,github,gitlab,postman,figma,ps,linux,vscode&theme=light)](https://skills.thijs.gg)
 
 - 💻 &nbsp; Ruby | Ruby on Rails | Rspec  
 - 🌐 &nbsp; Javascript | React.JS | jQuery | Material UI | Bootstrap | Sass 
