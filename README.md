@@ -1,4 +1,4 @@
-<h1>Hi, I am a Senior Ruby on Rails Developer 👋</h1>
+<h1>Hi, I am a Senior Ruby on Rails Developer & React.JS Developer 👋</h1>
 
 <h3>🛠 Tech Stack</h3>
 
