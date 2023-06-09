@@ -5,12 +5,12 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,redux,graphql,mysql,postgres,sqlite,mongodb,aws,heroku,docker,kubernetes,jenkins,js,ts,regex,jquery,html,css,sass,tailwind,bootstrap,git,github,gitlab,postman,figma,ps,linux,vscode&theme=light)](https://skills.thijs.gg)
 
-* 💻   Ruby | Ruby on Rails | Rspec  
+- 💻 &nbsp; Ruby | Ruby on Rails | Rspec  
 - 🌐 &nbsp; Javascript | React.JS | jQuery | Material UI | Bootstrap | Sass 
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLite
 - 🔧 &nbsp; RubyMine | Visual Studio code
 - ✍🏻 &nbsp; Photoshop | Figma
-
+📚🌱🎉🧐💼💬📫🎯🔔🥅⚡👨🏻‍💻
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Analytics
 
