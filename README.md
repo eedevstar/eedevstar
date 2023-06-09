@@ -15,8 +15,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eedevstar&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eedevstar&text_color=daf7dc&bg_color=151515&layout=compact)](https://github.com/eedevstar/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eedevstar&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 </div>
