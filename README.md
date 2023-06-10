@@ -6,7 +6,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,redis,react,redux,graphql,mysql,postgres,sqlite,mongodb,aws,heroku,docker,kubernetes,jenkins,js,ts,regex,jquery,html,css,sass,tailwind,bootstrap,git,github,gitlab,postman,figma,ps,linux,vscode&theme=light)](https://skills.thijs.gg)
 
-- 💻 &nbsp; Ruby | Ruby on Rails | Rspec  
+- 💻 &nbsp; Ruby | Ruby on Rails
 - ✍ &nbsp; TDD & BDD - Rspec | Capybara | Cucumber | Selenium
 - 👨🏻‍💻 &nbsp; Web Scraping - Kimurai | Selenium | Watir
 - ⚡ &nbsp; Third Party API Integration
